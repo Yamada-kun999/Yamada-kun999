@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Yamada-kun999
 - 👀 I’m interested in Build
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning CSS and QML
 - 💞️ I’m looking to collaborate on Node.js
+- Actually I I'm ricing Hyprland on Arch linux
 - 😄 Pronouns: DuDe
 - ⚡ Fun fact: I am exhausted
 
